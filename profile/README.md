@@ -20,9 +20,14 @@ Revisão defensiva de segurança do ciclo de desenvolvimento de software. O trab
 - Toda entrega é escrita ou revisada por uma pessoa.
 - Encerramento com revogação de acessos e exclusão das cópias de trabalho.
 
-## Implantação de SDLC seguro
+## Implantação de SDLC
 
-Ajudamos equipes a implantar o modelo de desenvolvimento com gates que usamos internamente: registro de mudança, suíte de testes presa ao commit, avaliações automatizadas e aprovação humana antes do merge.
+Implantamos um ciclo de desenvolvimento de software completo, do pedido à produção.
+
+- **Entrada do trabalho:** estrutura de prompts para construir a partir de uma interação livre ou de um fluxo de atendimento de requisitos.
+- **Entrega:** fluxo completo, integrado a revisão de código e testes automatizados.
+- **Segregação:** pontos-chave separados antes e durante cada alteração, com validação depois dela.
+- **Automação:** de ponta a ponta, ambiente por ambiente.
 
 ## Divulgação responsável
 
